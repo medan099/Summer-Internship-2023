@@ -1,0 +1,7 @@
+# Ignore build and cache directories
+target/
+.angular/cache/
+
+# Ignore large binary files
+*.jar
+*.pack
