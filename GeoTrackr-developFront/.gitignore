@@ -1,0 +1,7 @@
+# Ignore Angular cache and other large files
+.angular/cache/
+*.jar
+*.pack
+target/
+node_modules/
+dist/
